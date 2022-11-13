@@ -1,0 +1,3 @@
+1. Tidak bisa, Karna masing masing memerlukan State yang harus ditransisikan ke state Walk Crunch.
+2. Tidak bisa, karna state JUMP memerlukan transisi ke state idle dahulu agar dapat Crouch.
+3. Tidak, karna jika Crouch dan Crouchwalking menggunakan transisi yang sama nantinya akan bertumbukan antara Event Crouch dan Crouchwalking.
